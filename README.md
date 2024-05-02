@@ -1,2 +1,2 @@
-# project-m1
+# Web-Scrapping/VectorDb/LLM/RAG
 Web-scrapping, Vectorization, Semantic search, LLM
